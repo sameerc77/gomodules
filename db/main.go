@@ -1,7 +1,6 @@
 package main
 
 import (
-	"db/dml"
 	"fmt"
 
 	"github.com/sameerc77/gomodules/db/dml"
